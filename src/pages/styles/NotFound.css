@@ -1,0 +1,30 @@
+.NotFound {
+  width: 100%;
+  min-height: calc(100vh - 60px);
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+
+  color: white;
+
+  display: grid;
+  grid-template: 1fr / 100px 300px 1fr 100px;
+  grid-template-areas: ". text image .";
+  align-items: center;
+  justify-items: center;
+}
+
+.NotFound__img {
+  grid-area: image;
+}
+
+.NotFound__img img {
+  width: 100%;
+}
+
+.NotFound__text {
+  grid-area: text;
+}
+
+.NotFound__text img {
+  margin-bottom: 20px;
+}
