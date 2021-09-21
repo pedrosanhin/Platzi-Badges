@@ -50,8 +50,16 @@
       "lastName": "Sanchez",
       "email": "pedrosanc@gmail.com",
       "jobTitle": "Developer",
-      "twitter": "pedroA1007", 
+      "twitter": "pedroA1007",
       "id": "gHYd-P2"
+    },
+    {
+      "firstName": "Angel",
+      "lastName": "Hinostroza",
+      "email": "angel1234@gmail.com",
+      "jobTitle": "Dev",
+      "twitter": "angel10278",
+      "id": "y3Q4uty"
     }
   ]
 }
